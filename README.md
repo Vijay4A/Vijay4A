@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)]
 
-<h1 align="center">Hi 👋, I'm V!jay SharmA [VJ]</h1>
+<h1 align="center">Hi 👋, I'm V!jay Sharm@ [<VJ>]</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay4a&label=Profile%20views&color=0e75b6&style=flat" alt="vijay4a" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay4a&label=Profile%20views&color=0e75b6&style=flat" alt="vijay4a" /> </p>
